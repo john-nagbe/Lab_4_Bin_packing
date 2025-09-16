@@ -72,3 +72,7 @@ public class BinpackingFFD {
         scanner.close();
     }
 }
+
+// helpful links/sources 
+// https://en.wikipedia.org/wiki/First-fit-decreasing_bin_packing
+// https://www.detailedpedia.com/wiki-First-fit-decreasing_bin_packing
